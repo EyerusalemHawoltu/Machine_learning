@@ -1,0 +1,151 @@
+character_name,role,gender,anime
+Naruto Uzumaki,hero,male,Naruto
+Sakura Haruno,hero,female,Naruto
+Eren Yeager,hero,male,Attack on Titan
+Mikasa Ackerman,hero,female,Attack on Titan
+Monkey D. Luffy,hero,male,One Piece
+Nami,hero,female,One Piece
+Tanjiro Kamado,hero,male,Demon Slayer
+Nezuko Kamado,hero,female,Demon Slayer
+Yuji Itadori,hero,male,Jujutsu Kaisen
+Nobara Kugisaki,hero,female,Jujutsu Kaisen
+Gon Freecss,hero,male,Hunter x Hunter
+Biscuit Krueger,hero,female,Hunter x Hunter
+Izuku Midoriya,hero,male,My Hero Academia
+Ochako Uraraka,hero,female,My Hero Academia
+Ichigo Kurosaki,hero,male,Bleach
+Rukia Kuchiki,hero,female,Bleach
+Edward Elric,hero,male,Fullmetal Alchemist
+Winry Rockbell,hero,female,Fullmetal Alchemist
+Natsu Dragneel,hero,male,Fairy Tail
+Erza Scarlet,hero,female,Fairy Tail
+Kirito,hero,male,Sword Art Online
+Asuna Yuuki,hero,female,Sword Art Online
+Ken Kaneki,hero,male,Tokyo Ghoul
+Touka Kirishima,hero,female,Tokyo Ghoul
+Lelouch Lamperouge,hero,male,Code Geass
+Kallen Stadtfeld,hero,female,Code Geass
+Asta,hero,male,Black Clover
+Noelle Silva,hero,female,Black Clover
+Senku Ishigami,hero,male,Dr. Stone
+Kohaku,hero,female,Dr. Stone
+Rin Okumura,hero,male,Blue Exorcist
+Shiemi Moriyama,hero,female,Blue Exorcist
+Mob (Shigeo Kageyama),hero,male,Mob Psycho 100
+Tsubomi Takane,hero,female,Mob Psycho 100
+Meliodas,hero,male,Seven Deadly Sins
+Elizabeth Liones,hero,female,Seven Deadly Sins
+Shinra Kusakabe,hero,male,Fire Force
+Iris,hero,female,Fire Force
+Yato,hero,male,Noragami
+Hiyori Iki,hero,female,Noragami
+Shirou Emiya,hero,male,Fate/Stay Night
+Artoria Pendragon (Saber),hero,female,Fate/Stay Night
+Subaru Natsuki,hero,male,Re:Zero
+Emilia,hero,female,Re:Zero
+Ryuko Matoi,hero,female,Kill la Kill
+Mako Mankanshoku,hero,female,Kill la Kill
+Soul Evans,hero,male,Soul Eater
+Maka Albarn,hero,female,Soul Eater
+Gintoki Sakata,hero,male,Gintama
+Kagura,hero,female,Gintama
+Shinya Kogami,hero,male,Psycho-Pass
+Akane Tsunemori,hero,female,Psycho-Pass
+Jotaro Kujo,hero,male,JoJo’s Bizarre Adventure
+Jolyne Cujoh,hero,female,JoJo’s Bizarre Adventure
+Shoyo Hinata,hero,male,Haikyuu!!
+Kiyoko Shimizu,hero,female,Haikyuu!!
+Inuyasha,hero,male,Inuyasha
+Kagome Higurashi,hero,female,Inuyasha
+Shinji Ikari,hero,male,Evangelion
+Rei Ayanami,hero,female,Evangelion
+Rintaro Okabe,hero,male,Steins;Gate
+Kurisu Makise,hero,female,Steins;Gate
+Satoru Fujinuma,hero,male,Erased
+Kayo Hinazuki,hero,female,Erased
+Ryuji Takasu,hero,male,Toradora
+Taiga Aisaka,hero,female,Toradora
+Kyo Sohma,hero,male,Fruits Basket
+Tohru Honda,hero,female,Fruits Basket
+Violet Evergarden,hero,female,Violet Evergarden
+Gilbert Bougainvillea,hero,male,Violet Evergarden
+Yuu Otosaka,hero,male,Charlotte
+Nao Tomori,hero,female,Charlotte
+Tatsumi,hero,male,Akame ga Kill
+Akame,hero,female,Akame ga Kill
+Atsushi Nakajima,hero,male,Bungo Stray Dogs
+Kyouka Izumi,hero,female,Bungo Stray Dogs
+Emma,hero,female,The Promised Neverland
+Ray,hero,male,The Promised Neverland
+Denji,hero,male,Chainsaw Man
+Power,hero,female,Chainsaw Man
+Reg,hero,male,Made in Abyss
+Riko,hero,female,Made in Abyss
+Hiro,hero,male,Darling in the Franxx
+Zero Two,hero,female,Darling in the Franxx
+Loid Forger,hero,male,Spy × Family
+Yor Forger,hero,female,Spy × Family
+Miyuki Shirogane,hero,male,Kaguya-sama
+Kaguya Shinomiya,hero,female,Kaguya-sama
+Kousei Arima,hero,male,Your Lie in April
+Kaori Miyazono,hero,female,Your Lie in April
+Yuzuru Otonashi,hero,male,Angel Beats
+Yuri Nakamura,hero,female,Angel Beats
+Spike Spiegel,hero,male,Cowboy Bebop
+Faye Valentine,hero,female,Cowboy Bebop
+Vash the Stampede,hero,male,Trigun
+Meryl Stryfe,hero,female,Trigun
+Allen Walker,hero,male,D.Gray-man
+Lenalee Lee,hero,female,D.Gray-man
+Hyakkimaru,hero,male,Dororo
+Mio,hero,female,Dororo
+Naofumi Iwatani,hero,male,Shield Hero
+Raphtalia,hero,female,Shield Hero
+Bell Cranel,hero,male,DanMachi
+Ais Wallenstein,hero,female,DanMachi
+Kazuma Satou,hero,male,KonoSuba
+Aqua,hero,female,KonoSuba
+Goblin Slayer,hero,male,Goblin Slayer
+Priestess,hero,female,Goblin Slayer
+Ichiro Suzuki,hero,male,Death March
+Arisa,hero,female,Death March
+Rokuro,hero,male,Twin Star Exorcists
+Benio Adashino,hero,female,Twin Star Exorcists
+Toriko,hero,male,Toriko
+Rin,hero,female,Toriko
+Aladdin,hero,male,Magi
+Morgiana,hero,female,Magi
+Hei,hero,male,Darker than Black
+Yin,hero,female,Darker than Black
+Renton Thurston,hero,male,Eureka Seven
+Eureka,hero,female,Eureka Seven
+Kusuo Saiki,hero,male,Saiki K
+Kokomi Teruhashi,hero,female,Saiki K
+Haku,hero,male,Spirited Away
+Chihiro,hero,female,Spirited Away
+Ashitaka,hero,male,Princess Mononoke
+San,hero,female,Princess Mononoke
+Taki Tachibana,hero,male,Your Name
+Mitsuha Miyamizu,hero,female,Your Name
+Yuta Hibiki,hero,male,SSSS.Gridman
+Rikka Takarada,hero,female,SSSS.Gridman
+Kaiman,hero,male,Dorohedoro
+Nikaido,hero,female,Dorohedoro
+Galo Thymos,hero,male,Promare
+Aina Ardebit,hero,female,Promare
+Sakamoto,hero,male,Sakamoto Desu Ga
+Aina Kuronuma,hero,female,Sakamoto Desu Ga
+Lag Seeing,hero,male,Tegami Bachi
+Niche,hero,female,Tegami Bachi
+Glenn Radars,hero,male,Akashic Records
+Sistine Fibel,hero,female,Akashic Records
+Licht Bach,hero,male,Plunderer
+Hina,hero,female,Plunderer
+Bam,hero,male,Tower of God
+Rachel,hero,female,Tower of God
+Thorfinn,hero,male,Vinland Saga
+Gudrid,hero,female,Vinland Saga
+Mash Burnedead,hero,male,Mashle
+Lemon Irvine,hero,female,Mashle
+Bojji,hero,male,Ranking of Kings
+Hiling,hero,female,Ranking of Kings
